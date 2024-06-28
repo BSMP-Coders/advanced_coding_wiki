@@ -2,5 +2,4 @@
 * [Getting Started](./other/Getting-Started.md)  
 * [Documentation](./docs/README.md)  
 * [TBD](./other/tbd.md)  
-  * [l2](./l2/l2.md)  
-* [12](./12/12.md)  
+* [l2](./l2/l2.md)  
