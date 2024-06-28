@@ -12,4 +12,4 @@ Welcome to the BSMP Coding Course! This course is designed to take you through t
 - Lesson 6 - Advanced Flask (Building a REST API)
 
 
-[Go to docs](./docs/README.md)
+[Go to docs](./docsu/README.md)
