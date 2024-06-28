@@ -2,3 +2,8 @@
 #theme: jekyll-theme-leap-day
 title: BSMP Adv Coders 🤖
 description: BSMP Adv Coders 🤖 GitHub Pages.
+permalink: pretty
+# Menu items
+menu:
+  - title: "Getting Started"
+    url: "/other/Getting-Started"
