@@ -7,3 +7,5 @@ permalink: pretty
 menu:
   - title: "Getting Started"
     url: "/other/Getting-Started"
+  - title: "docs"
+    url: "/docs/README"
