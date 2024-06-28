@@ -1,8 +1,8 @@
 ###theme: jekyll-theme-architect
-#theme: jekyll-theme-leap-day
+theme: jekyll-theme-leap-day
 title: BSMP Adv Coders 🤖
 description: BSMP Adv Coders 🤖 GitHub Pages.
-permalink: pretty
+#permalink: pretty
 # Menu items
 menu:  
   - title: "Home"  
