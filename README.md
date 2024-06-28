@@ -10,3 +10,6 @@ Welcome to the BSMP Coding Course! This course is designed to take you through t
 - Lesson 4 - Flask Basics
 - Lesson 5 - Flask + Azure OpenAI (Building an Autocomplete Web App)
 - Lesson 6 - Advanced Flask (Building a REST API)
+
+
+[Go to docs](./docs/README.md)
